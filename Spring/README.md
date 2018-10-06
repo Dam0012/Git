@@ -14,7 +14,7 @@
  
  Creo el fichero application.properties para cambiar el puerto en el que tomcat las peticiones web.
  
- Pruebo la aplicacion entrando en localhost:8081
+ Pruebo la aplicación entrando en localhost:8081
  
  Subo el proyecto al repositorio
  
